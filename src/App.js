@@ -7,6 +7,7 @@ const DataStoreBackupApp = () => {
   ); // Load existing data from localStorage
 
   // Handle input change
+  
   const handleInputChange = (e) => {
     setData(e.target.value);
   };
