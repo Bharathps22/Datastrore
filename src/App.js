@@ -86,7 +86,6 @@ const DataStoreBackupApp = () => {
           Clear Data
         </button>
 
-        
       </div>
     </div>
   );
