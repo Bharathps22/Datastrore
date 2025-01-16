@@ -85,6 +85,8 @@ const DataStoreBackupApp = () => {
         <button onClick={clearData} style={{ padding: "10px", backgroundColor: "red", color: "white" }}>
           Clear Data
         </button>
+
+        
       </div>
     </div>
   );
